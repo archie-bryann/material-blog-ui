@@ -1,0 +1,43 @@
+
+*The comment algorithm and comment and err messages
+
+
+
+*check for every phone if okay
+*Host
+*Check for db and db connections dependencies.
+Market it
+
+In datecluster, give people the ability to allow people to chat with them.
+
+
+Things to do:
+- Host Blog
+- Download notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
